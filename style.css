@@ -36,7 +36,6 @@ video {
 .filter {
     width: 70px;
     height: 50px;
-    /* Lorem Picsum -> Sample Images */
     background-image: url("https://picsum.photos/id/1015/70/50");
     background-blend-mode: luminosity;
     margin: 1px;
